@@ -7,7 +7,7 @@
  - [Jon Richard](https://github.com/Jon-Dionson)
  - [Jay Davis](https://github.com/Jay-Davis-191)
 
-##Server
+## Server
  - Domain: TBA
  - Address: TBA
  - Hosting software: TBA
@@ -15,16 +15,16 @@
  - PHP 8.1.9
  - MySQL 5.7.28
 
-##Workflow
+## Workflow
  - Collaboration
    - [Github](https://github.com/cp3402-students/project-team-07)
    - [Trello](https://trello.com/b/cWmwdbRf/cms-team-7-web-project-dev-template)
    - [Discord](https://discord.gg/yD2JnmrXQa)
 
-##WordPress
+## WordPress
  - Version: TBA
  - Themes:
    - TBA
 
-##Plugins
+## Plugins
  - TBA
